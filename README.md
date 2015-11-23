@@ -2,7 +2,7 @@
 
 Here is the go directory structure on my local machine.
 
-<code>
+<pre>
 .
 ├── bin
 │   └── hello
@@ -20,4 +20,4 @@ Here is the go directory structure on my local machine.
             └── stringutil
                 ├── reverse_test.go
                 └── stringutil.go
-  </code>
+  </pre>
