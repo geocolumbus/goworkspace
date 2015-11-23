@@ -1,7 +1,11 @@
 package main
 
-import "fmt"
+import (
+        "fmt"
+
+        "github.com/geocolumbus/stringutil"
+)
 
 func main() {
-    fmt.Printf("hello, world\n")
+    fmt.Printf(stringutil.Reverse("\nOh no, it's backwards."))
 }
